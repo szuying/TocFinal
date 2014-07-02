@@ -1,7 +1,5 @@
 [
 {"district":"中正區","name":"城內商圈","legalName":"臺北市新中華路影音電器街促進會","telephone":"02-2381-6299","address":"臺北市開封街1段67號"},
-{"district":"北投區","name":"承德路中古汽車商圈","legalName":"台北市承德汽車商圈發展促進會","telephone":"02-2883-5356","address":"臺北市承德路4段257號"},
-{"district":"中正區","name":"愛國東路婚紗街","legalName":"臺北市愛國東路國際婚紗街發展協會","telephone":"02-2356-8768","address":"臺北市愛國東路24號"},
 {"district":"北投區","name":"士林觀光夜市商圈","legalName":"臺北市士林老街商圈繁榮促進會","telephone":"02-2883-3071","address":"臺北市大東路86-2號2樓"},
 {"district":"中正區","name":"南昌家具街","legalName":"臺北市南昌家具街發展協會","telephone":"02-2351-1962 ","address":"臺北市南昌路2段21號"},
 {"district":"大同區","name":"大稻埕商圈","legalName":"臺北市迪化商圈發展促進會","telephone":"02-2553-2270","address":"臺北市迪化街1段130號"},
@@ -11,7 +9,6 @@
 {"district":"北投區","name":"新北投溫泉商圈","legalName":"臺北市溫泉發展協會","telephone":"02-2895-5418","address":"臺北市光明路224號"},
 {"district":"信義區","name":"吳興商圈","legalName":"臺北市吳興商圈發展促進會","telephone":"02-2737-0194","address":"臺北市吳興街147號"},
 {"district":"中正區","name":"城內商圈","legalName":"臺北市北門相機商圈發展協會","telephone":"02-2314-2312","address":"臺北市博愛路60號6樓之A左"},
-{"district":"中山區","name":"中山北愛幸福商圈(婚紗精品街)","legalName":"臺北市婚紗攝影商業同業公會","telephone":"02-2585-4818","address":"臺北市中山北路2段181-3號"},
 {"district":"大同區","name":"後車站商圈","legalName":"臺北後站批發商圈發展促進會","telephone":"02-2550-6262","address":"臺北市重慶北路1段13號"},
 {"district":"中山區","name":"晴光商圈","legalName":"臺北市晴光商圈雙城徒步街商業促進會","telephone":"02-2592-5899","address":"臺北市林森北路556號1樓"},
 {"district":"中正區","name":"艋舺商圈","legalName":"臺北市佛具商業同業公會","telephone":"02-2785-5024","address":"臺北市萬華區西園路1段142號"},
@@ -35,12 +32,7 @@
 {"district":"信義區","name":"五分埔服飾商圈","legalName":"臺北市五分埔商圈促進會","telephone":"02-2764-1381","address":"臺北市永吉路517巷1弄10號"},
 {"district":"大安區","name":"永康商圈","legalName":"臺北市永康國際商圈協進會","telephone":"02-2321-6472","address":"臺北市麗水街3號2樓"},
 {"district":"大同區","name":"寧夏商圈","legalName":"臺北市寧夏商圈發展協會","telephone":"02-2550-3529","address":"臺北市寧夏路58號2樓"},
-{"district":"松山區","name":"民權水族商圈","legalName":"臺北市民權水族商圈發展協會","telephone":"02-2762-3836","address":"臺北市富錦街521號"},
-{"district":"內湖區","name":"內湖737商圈","legalName":"臺北市內湖737商店街促進會","telephone":"02-2627-9895","address":"臺北市內湖區內湖路1段737巷38弄2號"},
-{"district":"大同區","name":"朝陽服飾材料街","legalName":"臺北市朝陽服飾材料街區發展協會","telephone":"02-2558-8111","address":"臺北市重慶北路2段46巷42-1號"},
-{"district":"南港區","name":"南港路汽車商圈","legalName":"臺北市南港汽車商圈發展促進會","telephone":"02-2653-7231","address":"臺北市南港路3段80巷41號3樓"},
 {"district":"中山區","name":"吉林路美食商圈","legalName":"臺北市吉林路美食商圈發展協會","telephone":"02-2541-0513","address":"臺北市長春路88號5樓之10"},
 {"district":"大安區","name":"通化商圈","legalName":"臺北市文昌家具街發展促進會","telephone":"02-2707-3822","address":"臺北市文昌街309號"},
-{"district":"中正區","name":"和平西路鳥街","legalName":"臺北市萬華艋舺鳥街促進會","telephone":"02-2306-8609","address":"臺北市和平西路3段9號"},
 {"district":"北投區","name":"士林觀光夜市商圈","legalName":"臺北市士林區安平街觀光夜市協會","telephone":"02-2881-1403  ","address":"臺北市小南街3號2樓"}
 ]
