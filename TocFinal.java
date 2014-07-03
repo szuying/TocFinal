@@ -5,7 +5,7 @@ import java.io.*;
 import java.net.*;
 import org.json.*;
 
-public class TocFinal {
+public class TocFinal{
 
 	public static void main(String[] args) throws Exception {
 
@@ -15,7 +15,7 @@ public class TocFinal {
 
 		/*************** 實價登錄資訊 ******************************************************/
 		URL url = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/House.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/House.json");
 		URLConnection connect = url.openConnection();
 		BufferedReader in = new BufferedReader(new InputStreamReader(
 				connect.getInputStream(), "UTF-8"));
@@ -69,11 +69,11 @@ public class TocFinal {
 			count++;
 		}
 		in.close();
-		// System.out.println(total);
+		 System.out.println(total);
 
 		/*************** 捷運站資訊 ******************************************************/
 		URL url2 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/MRT.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/MRT.json");
 		URLConnection connect2 = url2.openConnection();
 		BufferedReader in2 = new BufferedReader(new InputStreamReader(
 				connect2.getInputStream(), "UTF-8"));
@@ -118,7 +118,7 @@ public class TocFinal {
 
 		/*************** 超商資訊 ******************************************************/
 		URL url3 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/Market.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/Market.json");
 		URLConnection connect3 = url3.openConnection();
 		BufferedReader in3 = new BufferedReader(new InputStreamReader(
 				connect3.getInputStream(), "UTF-8"));
@@ -162,7 +162,7 @@ public class TocFinal {
 
 		/*************** 圖書館資訊 ******************************************************/
 		URL url4 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/Library.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/Library.json");
 		URLConnection connect4 = url4.openConnection();
 		BufferedReader in4 = new BufferedReader(new InputStreamReader(
 				connect4.getInputStream(), "UTF-8"));
@@ -207,7 +207,7 @@ public class TocFinal {
 
 		/*************** 學校資訊 ******************************************************/
 		URL url5 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/School.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/School.json");
 		URLConnection connect5 = url5.openConnection();
 		BufferedReader in5 = new BufferedReader(new InputStreamReader(
 				connect5.getInputStream(), "UTF-8"));
@@ -248,7 +248,7 @@ public class TocFinal {
 
 		/*************** 加油站資訊 ******************************************************/
 		URL url6 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/GasStation.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/GasStation.json");
 		URLConnection connect6 = url6.openConnection();
 		BufferedReader in6 = new BufferedReader(new InputStreamReader(
 				connect6.getInputStream(), "UTF-8"));
@@ -285,7 +285,7 @@ public class TocFinal {
 
 		/*************** 商圈資訊 ******************************************************/
 		URL url7 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/BusinessDistrict.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/BusinessDistrict.json");
 		URLConnection connect7 = url7.openConnection();
 		BufferedReader in7 = new BufferedReader(new InputStreamReader(
 				connect7.getInputStream(), "UTF-8"));
@@ -326,7 +326,7 @@ public class TocFinal {
 
 		/*************** 醫院資訊 ******************************************************/
 		URL url8 = new URL(
-				"https://raw.githubusercontent.com/szuying/TOC_proj/master/info/Hospital.json");
+				"https://raw.githubusercontent.com/szuying/TocFinal/master/info/Hospital.json");
 		URLConnection connect8 = url8.openConnection();
 		BufferedReader in8 = new BufferedReader(new InputStreamReader(
 				connect8.getInputStream(), "UTF-8"));
