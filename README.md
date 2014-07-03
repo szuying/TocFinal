@@ -9,3 +9,5 @@ The project is to help you find the house in Taipei if you want to use the cheap
 [szuying] (https://github.com/szuying/)  
 [looby332] (https://github.com/looby332/)
 
+#PPT
+http://www.slideshare.net/ssuser006db5/toc-proj
