@@ -5,7 +5,7 @@ such as MRT,supermarket,hospital......around your house.
 
 #USAGE
 ```java
- java –jar TOC_proj.jar
+ java -jar TocFinal.jar
 ```
 #AUTHORS
 [szuying](https://github.com/szuying/)
