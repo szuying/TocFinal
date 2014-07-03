@@ -1,6 +1,6 @@
 #TOC_proj
 This project can help you find the house in Taipei when you want to use the
-cheapest price to buy your dream house with conveninece facilities 
+cheapest price to buy your dream house with convenient facilities 
 such as MRT,supermarket,hospital......around your house.
 
 #USAGE
