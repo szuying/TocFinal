@@ -9,5 +9,4 @@ such as MRT,supermarket,hospital......around your house.
 ```
 #AUTHORS
 [szuying](https://github.com/szuying/)
-
 [looby332](https://github.com/looby332/)
